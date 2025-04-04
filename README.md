@@ -25,6 +25,6 @@ Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e cria
 ## 📫 Como me encontrar  
 
 💼 [LinkedIn](https://www.linkedin.com/in/alissoncbh/)  
-📧 Email: alissonc.bh@hotmail.com
+📧 alissonc.bh@hotmail.com
 
 🚀 Sempre aberto a colaborações e novos desafios!  
