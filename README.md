@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Olá! Eu sou o Alison Charles
 
-<!--
-**Alizzon/Alizzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Desenvolvedor Front-End | 📚 Estudante de Análise e Desenvolvimento de Sistemas  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim  
+Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e criar interfaces modernas e intuitivas. Atualmente, estudo **React.js** e aprimoro minhas habilidades em **UI/UX Design**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+
+🔹 **Front-End:** HTML, CSS, JavaScript, TypeScript  
+🔹 **Frameworks & Bibliotecas:** React.js, Next.js, TailwindCSS  
+🔹 **Ferramentas:** Git/GitHub
+
+---
+
+## 📌 Projetos Recentes  
+
+🔹 **[Projeto 1](https://github.com/seuusuario/projeto1)** - Breve descrição do projeto  
+🔹 **[Projeto 2](https://github.com/seuusuario/projeto2)** - Breve descrição do projeto  
+
+---
+
+## 📫 Como me encontrar  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissoncbh/)
+
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alissonc.bh@hotmail.com)
+
+🚀 Sempre aberto a colaborações e novos desafios!  
