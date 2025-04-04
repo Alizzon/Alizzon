@@ -24,8 +24,7 @@ Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e cria
 
 ## 📫 Como me encontrar  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissoncbh/)
-
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alissonc.bh@hotmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/alissoncbh/)  
+📧 Email: alissonc.bh@hotmail.com
 
 🚀 Sempre aberto a colaborações e novos desafios!  
