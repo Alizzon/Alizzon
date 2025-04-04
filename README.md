@@ -2,6 +2,8 @@
 
 🎨 Desenvolvedor Front-End | 📚 Estudante de Análise e Desenvolvimento de Sistemas  
 
+### 👀 Estou buscando uma vaga no momento 👀
+
 ## 🚀 Sobre mim  
 Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e criar interfaces modernas e intuitivas. Atualmente, estudo **React.js** e aprimoro minhas habilidades em **UI/UX Design**.  
 
