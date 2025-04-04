@@ -17,7 +17,9 @@ Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e cria
 
 ## 📌 Projetos Recentes  
 
-🔹 **[Projeto 1](https://github.com/Alizzon/Projeto-Spotify)** - Clone da Página do Spotify (2022)
+🔹 **[Projeto 1](https://github.com/Alizzon/Projeto-Spotify)** - Clone da Página do Spotify (2022) utilizando HTML5 e CSS3. 
+🔹 **[Projeto 2](https://github.com/Alizzon/Projeto-Finans)** - Elaboração de uma página financeira, desenvolvida utilizando HTML5 e CSS3. 
+
 
 ---
 
